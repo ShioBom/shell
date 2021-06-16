@@ -1,0 +1,10 @@
+total 8
+-rw-r--r--  1 tangxiaobao  staff  194  3  9 15:16 README.md
+drwxr-xr-x  8 tangxiaobao  staff  256  3  9 14:44 demo-11
+drwxr-xr-x  5 tangxiaobao  staff  160  3  9 15:00 output
+排序之后的内容: 
+-rw-r--r--  1 tangxiaobao  staff  194  3  9 15:16 README.md
+drwxr-xr-x  5 tangxiaobao  staff  160  3  9 15:00 output
+drwxr-xr-x  8 tangxiaobao  staff  256  3  9 14:44 demo-11
+total 8
+The result is: 11
